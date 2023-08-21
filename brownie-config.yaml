@@ -1,0 +1,11 @@
+compiler:
+    evm_version: null
+    solc:
+        version: null
+        optimizer:
+            enabled: true
+            runs: 200
+        remappings:
+            - "@openzeppelin=openzeppelin/openzeppelin-contracts@4.9.3/"
+    vyper:
+        version: null
