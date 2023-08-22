@@ -9,3 +9,5 @@ compiler:
             - "@openzeppelin=openzeppelin/openzeppelin-contracts@4.9.3/"
     vyper:
         version: null
+dependencies:
+    - openzeppelin/openzeppelin-contracts@4.9.3
